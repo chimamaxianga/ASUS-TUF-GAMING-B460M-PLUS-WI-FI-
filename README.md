@@ -22,4 +22,4 @@ iMessage，FaceTime，AppStore正常
 macos10.15.7 OC0.6.0
 
 更新
-OC0.6.3 bigsur
+OC0.6.3 bigsur11.01
