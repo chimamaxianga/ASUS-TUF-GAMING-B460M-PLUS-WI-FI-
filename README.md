@@ -6,7 +6,7 @@
 
 ![image](https://github.com/chimamaxianga/ASUS-TUF-GAMING-B460M-PLUS-WI-FI-/blob/main/1608198285204.jpg)
 
-OC0.6.6 bigsur 正式版正常
+OC0.6.8   
 
 加载电源管理节能五项
 
