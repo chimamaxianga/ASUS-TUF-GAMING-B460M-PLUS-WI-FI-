@@ -6,13 +6,15 @@
 
 ![image](https://github.com/chimamaxianga/ASUS-TUF-GAMING-B460M-PLUS-WI-FI-/blob/main/1608198285204.jpg)
 
-OC0.6.8   
+OC0.7.4
+
+Monterey正常
 
 加载电源管理节能五项
 
 核显UHD630硬解正常
 
-处理器i5 10400识别
+处理器i5 10400识别不正常
 
 有线网卡正常 
 
@@ -25,4 +27,3 @@ USB内建正常
 iMessage，FaceTime，AppStore正常
 
 
-更新到bigsur正式版后升级BIOS最新版暂时没有系统重启报COMS保护安全模式
